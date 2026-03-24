@@ -31,6 +31,7 @@ class PortfolioPage extends StatelessWidget {
     'UI/UX',
     'Git',
     'Responsive Design',
+    
   ];
 
   static const _projects = [
